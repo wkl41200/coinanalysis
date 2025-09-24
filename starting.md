@@ -17,3 +17,8 @@ source venv/bin/activate  #mac
 
 pip install -r requirements.txt
 
+
+
+update new version
+git branch
+git pull origin master
