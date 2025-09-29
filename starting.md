@@ -12,6 +12,8 @@ git pull --rebase origin master
 starting to work process
 
 
+python -m venv venv
+
 source venv/bin/activate  #mac
 .\venv\Scripts\Activate   #windows
 
