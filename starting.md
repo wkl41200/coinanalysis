@@ -30,7 +30,7 @@ python -m venv venv
 
 source venv/bin/activate  #mac
 .\venv\Scripts\Activate   #windows
-.\venv\Scripts\Activate.ps1
+.\.venv\Scripts\Activate.ps1
 
 
 pip install -r requirements.txt
