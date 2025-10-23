@@ -10,7 +10,9 @@ SIMPLE FUNDING STRATEGY BACKTEST - UPDATED
 """
 
 # ============ CONFIGURATION ============
+#CSV_PATH = '/Users/duncanwan/Desktop/learning/Bitcoin/BTC_perp_funding_combined_OHLC.csv'
 CSV_PATH = '/Users/duncanwan/Desktop/learning/Bitcoin/BTC_perp_funding_combined_OHLC.csv'
+CSV_PATH = r'C:\Users\Duncan Wan\Desktop\VSCODE\BTC_perp_funding_combined_OHLC.csv'
 
 # Entry thresholds
 EXTREME_HIGH_FUNDING = 0.00012  # 0.012% for SHORT
